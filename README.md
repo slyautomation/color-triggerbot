@@ -5,7 +5,7 @@ This code reads input from a button connected to pin 2 and sends keyboard comman
 The code initializes the keyboard and sets up serial communication for data input.
 
 ## valorant triggerbot
-This Python script appears to be a "trigger bot" designed for use in a video game. Here's a summary of what it does and its potential use:
+This Python script is a "trigger bot" designed for use in a video game. Here's a summary of what it does and its potential use:
 - Setup: It imports necessary libraries such as ctypes, winsound, random, time, cv2 (OpenCV), keyboard, numpy, and serial. It also defines a monitor area for screen capturing.
 - Configuration: You can change the serial port and color to be detected (red, purple, or yellow) by modifying the port and color_to_use variables respectively.
 - Color Detection: Based on the chosen color (color_to_use), it sets up lower and upper HSV (Hue, Saturation, Value) thresholds for color detection.
@@ -15,4 +15,5 @@ This Python script appears to be a "trigger bot" designed for use in a video gam
 - Arduino Click: Depending on the mode (Pistol or AutoRifle), it sends a signal to the Arduino to simulate a button press at random intervals to emulate human-like behavior.
 - Screen Capturing: It captures screenshots of the specified monitor area using the MSS library.
 - Continuous Execution: The script runs in an infinite loop, continuously monitoring the screen and reacting based on the detected color and user inputs.
+
 In gaming contexts, such a script is controversial as this can provide unfair advantages and violate the terms of service of many online games.
