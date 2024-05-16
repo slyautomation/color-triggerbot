@@ -21,17 +21,17 @@ This Python script is a "trigger bot" designed for use in a video game. Here's a
 
 In gaming contexts, such a script is controversial as this can provide unfair advantages and violate the terms of service of many online games.
 
-Amazon:
+### Amazon:
 
 Arduino Pro Micro: https://amzn.to/3UY8ri1
 
-Aliexpress:
+### Aliexpress:
 
 Arduino Pro Micro: https://s.click.aliexpress.com/e/_DdgYkVN
 
-Also works with Arduino Leonardo and/or usb host shield:
+### Also works with Arduino Leonardo and/or usb host shield:
 
-Amazon:
+### Amazon:
 
 Arduino USB Host Shield: https://amzn.to/3JKdJHn
 
@@ -41,7 +41,7 @@ Soldering Iron: https://amzn.to/4ba7R5W
 
 Solder Wire: https://amzn.to/4ba7R5W
 
-Aliexpress:
+### Aliexpress:
 
 Arduino USB Host Shield: https://s.click.aliexpress.com/e/_Dl8wK3l
 
