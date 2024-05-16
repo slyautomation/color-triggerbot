@@ -5,6 +5,8 @@ For the video tutorial guide, check out: https://youtu.be/g89zgO3F_J4
 This code reads input from a button connected to pin 2 and sends keyboard commands based on the input received through serial communication. When the serial input is "left", it simulates pressing the 'l' key. The physical button functionality is commented out, so it's not currently active. 
 The code initializes the keyboard and sets up serial communication for data input.
 
+Here are other special character or keys to use: https://content.instructables.com/FKH/L2EK/J7AQRDSX/FKHL2EKJ7AQRDSX.pdf
+
 ## valorant triggerbot
 This Python script is a "trigger bot" designed for use in a video game. Here's a summary of what it does and its potential use:
 - Setup: It imports necessary libraries such as ctypes, winsound, random, time, cv2 (OpenCV), keyboard, numpy, and serial. It also defines a monitor area for screen capturing.
