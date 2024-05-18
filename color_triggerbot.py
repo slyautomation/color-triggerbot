@@ -11,7 +11,7 @@ monitor = {"top": 400, "left": 850, "width": 250, "height":200}
 sct = mss()
 
 # ====== CHANGE THESE ======
-port = 'COM12'
+port = 'COM5'
 color_to_use = 'red'
 # ==========================
 
