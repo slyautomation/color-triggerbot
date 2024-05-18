@@ -1,4 +1,4 @@
-# valorant_triggerbot
+# color triggerbot
 
 For the video tutorial guide, check out: https://youtu.be/g89zgO3F_J4
 ## arduino keyboard press
