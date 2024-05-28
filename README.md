@@ -1,6 +1,9 @@
 # color triggerbot
 
 For the video tutorial guide, check out: https://youtu.be/g89zgO3F_J4
+
+full written step by step guide here: https://www.slyautomation.com/blog/triggerbot-with-python-and-arduino-pro-micro/
+
 ## arduino keyboard press
 This code reads input from a button connected to pin 2 and sends keyboard commands based on the input received through serial communication. When the serial input is "left", it simulates pressing the 'l' key. The physical button functionality is commented out, so it's not currently active. 
 The code initializes the keyboard and sets up serial communication for data input.
